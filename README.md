@@ -4,7 +4,7 @@
 :wrench: Software Engineer.<br>
 
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielxfs&show_icons=true&theme=algolia&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielxfs&show_icons=true&theme=algolia&count_private=true&include_all_commits=true"/>
 </div>
 
 <div style="display: inline_block"><br>
