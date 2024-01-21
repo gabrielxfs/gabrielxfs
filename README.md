@@ -3,7 +3,7 @@
 :mortar_board: Computer Science Student at UFRJ.<br>
 :wrench: Software Engineer.<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielxfs&show_icons=true&theme=algolia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrielxfs&theme=algolia&show_icons=true&include_all_commits=true&count_private=true"/>
 
 <div style="display: inline_block"><br>
   <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
