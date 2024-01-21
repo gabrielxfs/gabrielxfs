@@ -3,8 +3,6 @@
 :mortar_board: Computer Science Student at UFRJ.<br>
 :wrench: Software Engineer.<br>
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrielxfs&theme=algolia&show_icons=true&include_all_commits=true&count_private=true"/>
-
 <div style="display: inline_block"><br>
   <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
