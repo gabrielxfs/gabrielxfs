@@ -1,6 +1,6 @@
 ### Hello World! My name is Gabriel Silva
  
-:mortar_board: Computer Science Student at UFRJ.<br>
+:mortar_board: Computer Science Grad at UFRJ.<br>
 :wrench: Software Engineer.<br>
 
 <div style="display: inline_block"><br>
